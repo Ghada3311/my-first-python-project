@@ -1,3 +1,7 @@
+# my-first-python-project
+# this file is requirment to pass python101 on SATR platform,
+# all code is created by Ghadah Aladwani
+
 telephone_book = {
     '1111111111': 'Amal',
     '2222222222': 'Mohammed',
